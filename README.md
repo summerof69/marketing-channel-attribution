@@ -52,7 +52,7 @@ Each notebook saves its charts as PNG files next to itself.
 
 ## Use your own data
 
-Replace the generated `d2c` or `b2b` DataFrame with your own export, using the same columns (at minimum `journey_id`, `step`, `channel`, `days_before_conversion` and `revenue`). Every model and chart then runs unchanged.
+Replace the generated `d2c` or `b2b` DataFrame with your own export, using the same columns (at minimum `journey_id`, `step`, `channel`, `days_before_conversion` and `revenue`). Every model then runs unchanged; the charts may need small edits for your channels.
 
 ## Licence
 
