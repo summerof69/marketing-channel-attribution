@@ -1,6 +1,6 @@
 # Marketing Channel Attribution
 
-Companion notebooks and data for the **Marketing Channel Attribution** series on [harendrasahu.com](https://www.harendrasahu.com). They reproduce every chart and table in the articles, using two fictional companies:
+Companion notebooks and data for the [**Marketing Channel Attribution**](https://harendrasahu.com/ai-data-science/marketing-channel-attribution) series on [harendrasahu.com](https://www.harendrasahu.com). They reproduce every chart and table in the articles, using two fictional companies:
 
 - **Kesari Threads**: a D2C ethnic-wear brand with short journeys (2,000 orders)
 - **TaskHarbor**: a B2B SaaS tool with long journeys (600 deals)
